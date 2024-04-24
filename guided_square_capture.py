@@ -18,6 +18,10 @@ n: the nth screen
  
 화면이 총 2개인데 2보다 큰 숫자를 누르면 아무 변화 없음.
  
+
+pip install pyqt5
+pip install Pillow
+pip install keyboard
 '''
  
 import sys
