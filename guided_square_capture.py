@@ -21,6 +21,7 @@ n: the nth screen
 
 pip install pyqt5
 pip install Pillow
+pip install pywin32
 pip install keyboard
 '''
  
